@@ -52,4 +52,4 @@ $SUDO docker run -d \
        -e SHELLHUB_SERVER_ADDRESS=http://shellhub.afa-sports.com \
        -e SHELLHUB_PRIVATE_KEY=/host/etc/shellhub.key \
        -e SHELLHUB_TENANT_ID=a07e7f5d-d606-40f8-83e2-a9fe485826e8 \
-       shellhubio/agent:v0.11.0-rc.5
+       shellhubio/agent:v0.11.0-rc.5-arm32v6
